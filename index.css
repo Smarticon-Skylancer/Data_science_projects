@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.timetable{
+    max-width: 800px;
+    margin: auto;
+}
+.table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+th, td{
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+th{
+    background-color: #f0f0f0;
+}
+.course{
+    background-color: #e0f7fa;
+}
+.math{
+    background-color: #ffccbc;
+}
+.phy{
+    background-color: #c8e6c9;
+}
+.chem{
+background-color: beige;
+}
+.bio{
+    background-color: green;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}

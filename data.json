@@ -1,0 +1,37 @@
+{
+    "students":[
+        {
+        "studentId" : 20,
+        "name" : "Micheal Ayuba",
+        "Department" : "BioChemistry",
+        "Courses" : ["Math 101","Bio 101","Chem 102"],
+        "level" : 100
+        },
+        {
+            "studentId" : 30,
+            "name" : "Japheth Dazi",
+            "Courses":["Math 202","Math 203","CSC 201"],
+            "Department":"Mathematics",
+            "level": 200
+
+        }
+
+    ],
+
+    "generalTimetable":[
+        {
+            "course" : "Math 101",
+            "day" : "Monday",
+            "Time" : "8:00 - 10:00",
+            "venue" :"SLH 1"
+        },
+        {
+            "course" : "Bio 101",
+            "day" : "Monday",
+            "Time" : "10:00 - 12:00",
+            "venue" :"SLH 1"
+        }
+    ]
+
+
+}
